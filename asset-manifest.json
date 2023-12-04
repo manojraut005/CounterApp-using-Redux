@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CounterApp-using-Redux/static/css/main.3106e63c.css",
+    "main.js": "/CounterApp-using-Redux/static/js/main.5a473729.js",
+    "index.html": "/CounterApp-using-Redux/index.html",
+    "main.3106e63c.css.map": "/CounterApp-using-Redux/static/css/main.3106e63c.css.map",
+    "main.5a473729.js.map": "/CounterApp-using-Redux/static/js/main.5a473729.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3106e63c.css",
+    "static/js/main.5a473729.js"
+  ]
+}
